@@ -1,0 +1,22 @@
+{
+    "useTaobaoRegistry": true,
+    "packageManager": "yarn",
+    "useConfigFiles": true,
+    "plugins": {
+        "@vue/cli-plugin-babel": {},
+        "@vue/cli-plugin-router": {
+            "historyMode": true
+        },
+        "@vue/cli-plugin-vuex": {},
+        "@vue/cli-plugin-eslint": {
+            "config": "prettier",
+            "lintOn": [
+                "save"
+            ]
+        },
+        "@vue/cli-plugin-unit-jest": {},
+        "vue-cli-plugin-element-plus":{}
+    },
+    "vueVersion": "3",
+    "cssPreprocessor": "node-sass"
+}
