@@ -20,7 +20,6 @@ module.exports = (api) => {
       chokidar: "^3.5.2",
       "svg-sprite-loader": "^6.0.9",
       svgo: "^2.3.1",
-    //   "vue-cli-plugin-element-plus": "latest",
     },
   });
   api.render("./template");

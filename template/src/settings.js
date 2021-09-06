@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Vue Element Admin',
+  title: "Vue3 Element-Plus Admin",
 
   /**
    * @type {boolean} true | false
@@ -17,5 +17,5 @@ module.exports = {
    * @type {boolean} true | false
    * @description Whether show the logo in sidebar
    */
-  sidebarLogo: true
-}
+  sidebarLogo: true,
+};

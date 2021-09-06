@@ -14,8 +14,7 @@
                 "save"
             ]
         },
-        "@vue/cli-plugin-unit-jest": {},
-        "vue-cli-plugin-element-plus":{}
+        "@vue/cli-plugin-unit-jest": {}
     },
     "vueVersion": "3",
     "cssPreprocessor": "node-sass"
